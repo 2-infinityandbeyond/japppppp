@@ -1,0 +1,41 @@
+{
+"shuttleData": [{
+"Date": "1",
+"Time": "2",
+"Task_ID": "3",
+"Bin_ID": "4",
+"Location_ID": "5",
+"Destination_ID": "6",
+"Shuttle_ID": "7",
+"Task_Accepted": "-1",
+"Task_Execution": "6",
+"Task_Completed": "3",
+"Task_Error": "1"
+},
+{
+"Date": "1",
+"Time": "2",
+"Task_ID": "3",
+"Bin_ID": "4",
+"Location_ID": "5",
+"Destination_ID": "6",
+"Shuttle_ID": "7",
+"Task_Accepted": "-1",
+"Task_Execution": "6",
+"Task_Completed": "3",
+"Task_Error": "1"
+}, {
+"Date": "1",
+"Time": "2",
+"Task_ID": "3",
+"Bin_ID": "4",
+"Location_ID": "5",
+"Destination_ID": "6",
+"Shuttle_ID": "7",
+"Task_Accepted": "-1",
+"Task_Execution": "6",
+"Task_Completed": "3",
+"Task_Error": "1"
+}
+]
+}
