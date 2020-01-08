@@ -20,10 +20,10 @@
 "Location_ID": "5",
 "Destination_ID": "6",
 "Shuttle_ID": "7",
-"Task_Accepted": "-1",
-"Task_Execution": "6",
-"Task_Completed": "3",
-"Task_Error": "1"
+"Task_Accepted": "8",
+"Task_Execution": "4",
+"Task_Completed": "1",
+"Task_Error": "6"
 }, {
 "Date": "1",
 "Time": "2",
@@ -33,9 +33,9 @@
 "Destination_ID": "6",
 "Shuttle_ID": "7",
 "Task_Accepted": "-1",
-"Task_Execution": "6",
-"Task_Completed": "3",
-"Task_Error": "1"
+"Task_Execution": "-6",
+"Task_Completed": "5",
+"Task_Error": "2"
 }
 ]
 }
